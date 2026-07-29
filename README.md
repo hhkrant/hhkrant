@@ -9,7 +9,7 @@ I'm now applying my product sense to building full stack, AI-native applications
 ### What I'm building
 
 - **[First Value](https://github.com/hhkrant/first-value):** A value-first activation auditor that maps where users actually reach real value in a product, instead of just tracking funnel drop-off.
-- **AI-native product tools:** Prototyping systems like a multi-agent decision room that synthesizes cross-functional perspectives into a single brief.
+- **[Product Council](https://github.com/hhkrant/product-council):** A decision-prep tool that argues a product call from four stakeholder perspectives, then has a separate reviewer break the weak arguments before it writes a short brief.
 - **Full-stack apps, end to end:** Shipping complete web apps (auth, data modeling, file/media handling, deployment) for real-world use cases like event planning, family admin support, and personal organization.
 - **New workflows for the craft itself:** Using Claude Code as a primary dev environment to rethink how product builders spec, prototype, and ship, not just use AI as a tool.
 
